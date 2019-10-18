@@ -1,1 +1,7 @@
+Contributions:
 
+Get the data: 
+Fit a line to the data with scipy:
+Fit a quadratic equation: 
+Now fit the data with sklearn:
+Cross valudation: Split your data into a training and test set: 
