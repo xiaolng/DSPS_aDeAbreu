@@ -13,3 +13,9 @@ This is an awesome plot. The x and y axes are clearly labeled with units. The le
 - plot the region within 1-sigma of prediction, so we know how good is our prediction.
 
 Xiaolong
+
+
+# FBB 
+good review but you did not split Clarity Aesthetic and honesty as requested!
+
+95%
